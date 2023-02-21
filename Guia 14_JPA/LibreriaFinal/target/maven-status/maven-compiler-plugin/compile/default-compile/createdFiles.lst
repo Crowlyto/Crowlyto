@@ -1,0 +1,14 @@
+com\mycompany\libreriafinal\entidad\Libro_.class
+com\mycompany\libreriafinal\entidad\Autor_.class
+com\mycompany\libreriafinal\persistencia\AutorDAO.class
+com\mycompany\libreriafinal\entidad\Editorial_.class
+com\mycompany\libreriafinal\persistencia\EditorialDAO.class
+com\mycompany\libreriafinal\servicios\ServicioLibro.class
+com\mycompany\libreriafinal\servicios\ServicioEditorial.class
+com\mycompany\libreriafinal\entidad\Editorial.class
+com\mycompany\libreriafinal\Menu.class
+com\mycompany\libreriafinal\LibreriaFinal.class
+com\mycompany\libreriafinal\servicios\ServicioAutor.class
+com\mycompany\libreriafinal\entidad\Autor.class
+com\mycompany\libreriafinal\persistencia\LibroDAO.class
+com\mycompany\libreriafinal\entidad\Libro.class
